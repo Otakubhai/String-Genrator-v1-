@@ -9,7 +9,7 @@ except Exception as e:
 print("Required pyrogram V2 or greater.")
 
 # Set up your bot's API credentials
-BOT_API_KEY = "YOUR_BOT_API_KEY"
+BOT_API_KEY = "6749453240:AAGFKXhD8_Y7dax0cmCkvs9tZ_WXQ4usK34"
 
 # Initialize the bot client
 app = Client("bot", bot_token=BOT_API_KEY)
